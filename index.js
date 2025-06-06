@@ -1,3 +1,3 @@
-const shopname = 'starmobiles noufal'
+const shopname = 'starmobiles noufal new'
 
 const new1 = 'new added new new'
